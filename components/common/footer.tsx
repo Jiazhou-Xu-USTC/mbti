@@ -28,20 +28,6 @@ export default function Footer() {
           </Button>
         </Link>
       </Text>
-      <Text>
-        Made by{" "}
-        <Link
-          href="https://github.com/vsme"
-          target="_blank"
-        >
-          <Button
-            colorScheme="primary"
-            variant="link"
-          >
-            vsme
-          </Button>
-        </Link>
-      </Text>
     </Flex>
   );
 }
